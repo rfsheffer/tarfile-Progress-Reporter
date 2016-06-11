@@ -1,4 +1,4 @@
-# tarfile Progress Extension #
+# tarfile Progress Extension For Python 3 #
 
 This module is a wrapper around the
 standard tarfile library in Python. It
